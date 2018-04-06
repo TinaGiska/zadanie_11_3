@@ -3,3 +3,8 @@ body {
   color: white;
   text-align: center;
 }
+
+div {
+display: inline-block;
+padding: 15px 100px 80px 100px;
+}
